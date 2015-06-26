@@ -1,0 +1,3 @@
+creates stream definition, persists definition, creates publisher and publishes specified number of events.
+
+requires admin services on server to be enabled.
